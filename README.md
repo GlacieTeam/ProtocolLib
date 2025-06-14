@@ -1,4 +1,13 @@
 # ProtocolLib
+
+[![QQ](https://img.shields.io/badge/642538983-pink?style=for-the-badge&logo=qq)](https://qm.qq.com/q/1yn1ZHEoyY)
+[![Discord](https://img.shields.io/discord/1346034987136192523?style=for-the-badge&logo=discord)](https://discord.gg/7uJNS3tNa6)
+
+[![Latest Tag](https://img.shields.io/github/v/tag/GlacieTeam/ProtocolLib?label=Latest%20Tag&style=for-the-badge)](https://github.com/GlacieTeam/ProtocolLib/releases)
+[![Stars](https://img.shields.io/github/stars/GlacieTeam/ProtocolLib.svg?style=for-the-badge)](https://github.com/GlacieTeam/ProtocolLib/stargazers)  
+[![Downloads](https://img.shields.io/github/downloads/GlacieTeam/ProtocolLib/total?style=for-the-badge&color=%2300ff00)](https://github.com/GlacieTeam/ProtocolLib/releases)
+[![Issues](https://img.shields.io/github/issues/GlacieTeam/ProtocolLib.svg?style=for-the-badge)](https://github.com/GlacieTeam/ProtocolLib/issues)
+
 Bedrock Protocol Library for Glacie
 
 # Install
