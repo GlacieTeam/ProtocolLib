@@ -30,10 +30,10 @@ Bedrock Protocol Library for Glacie
 - Join our [QQ Group](https://qm.qq.com/q/1yn1ZHEoyY): 642538983
 
 # Feedback
-- [Open an issue](https://github.com/GlacieTeam/Glacie/issues) to report bugs.
+- [Open an issue](https://github.com/GlacieTeam/ProtocolLib/issues) to report bugs.
 
 # License
-- [GitHub Release](https://github.com/GlacieTeam/Glacie/releases) is the sole and exclusive official source for downloading. Any other source of download is unauthorized and constitutes illegal reproduction. 
+- [GitHub Release](https://github.com/GlacieTeam/ProtocolLib/releases) is the sole and exclusive official source for downloading. Any other source of download is unauthorized and constitutes illegal reproduction. 
 - Unauthorized reproduction, integration, or redistribution is strictly prohibited.
 
 ## Copyright © 2025 GlacieTeam. All rights reserved.
