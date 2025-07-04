@@ -17,11 +17,12 @@ Bedrock Protocol Library for Glacie
 | Minecraft Version | Protocol Version | Support Status     | Support Planned    |
 | ----------------- | ---------------- | ------------------ | ------------------ |
 | <= 1.21.4x        | <= 748           | :x:                | No Plan to Support |
-| 1.21.5x           | 766              | :white_check_mark: | Already Supported  |
-| 1.21.6x           | 776              | :white_check_mark: | Already Supported  |
-| 1.21.7x           | 786              | :white_check_mark: | Already Supported  |
-| 1.21.8x           | 800              | :white_check_mark: | Already Supported  |
-| 1.21.9x           | 818              | :white_check_mark: | Already Supported  |
+| 1.21.50-1.21.51   | 766              | :white_check_mark: | Already Supported  |
+| 1.21.60-1.21.62   | 776              | :white_check_mark: | Already Supported  |
+| 1.21.70-1.21.73   | 786              | :white_check_mark: | Already Supported  |
+| 1.21.80-1.21.84   | 800              | :white_check_mark: | Already Supported  |
+| 1.21.90-1.21.92   | 818              | :white_check_mark: | Already Supported  |
+| 1.21.93           | 819              | :white_check_mark: | Already Supported  |
 | 1.21.10x          | unknown          | :x:                | Upcoming Support   |
 
 
