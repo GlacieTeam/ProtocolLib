@@ -33,6 +33,9 @@ Bedrock Protocol Library for Glacie
 # Feedback
 - [Open an issue](https://github.com/GlacieTeam/ProtocolLib/issues) to report bugs.
 
+# Donate
+- https://afdian.tv/a/GlacieTeam
+
 # License
 - [GitHub Release](https://github.com/GlacieTeam/ProtocolLib/releases) is the sole and exclusive official source for downloading. Any other source of download is unauthorized and constitutes illegal reproduction. 
 - Unauthorized reproduction, integration, or redistribution is strictly prohibited.
