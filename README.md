@@ -11,7 +11,7 @@
 Bedrock Protocol Library for Glacie
 
 # Install
-- Download the release and unzip the zip package, then put the **`ProtocolLib.dll`(Windows)** or **`ProtocolLib.so`(Linux)** into the `./plugins/Glacie/lib` directory.
+- Download the release and unzip the zip package, then put the **`ProtocolLib.dll`(Windows)** or **`ProtocolLib.so`(Linux)** into the install directory.
 
 # Supported Protocols
 | Minecraft Version | Protocol Version | Support Status     | Support Planned    |
@@ -22,7 +22,8 @@ Bedrock Protocol Library for Glacie
 | 1.21.7x           | 786              | :white_check_mark: | Already Supported  |
 | 1.21.8x           | 800              | :white_check_mark: | Already Supported  |
 | 1.21.9x           | 818, 819         | :white_check_mark: | Already Supported  |
-| 1.21.10x          | unknown          | :x:                | Upcoming Support   |
+| 1.21.10x          | 827              | :white_check_mark: | Already Supported  |
+| 1.21.11x          | unknown          | :x:                | Upcoming Support   |
 
 
 # Communication & FAQ
@@ -35,5 +36,7 @@ Bedrock Protocol Library for Glacie
 # License
 - [GitHub Release](https://github.com/GlacieTeam/ProtocolLib/releases) is the sole and exclusive official source for downloading. Any other source of download is unauthorized and constitutes illegal reproduction. 
 - Unauthorized reproduction, integration, or redistribution is strictly prohibited.
+
+---
 
 ## Copyright © 2025 GlacieTeam. All rights reserved.
