@@ -36,7 +36,7 @@ A Multi-version Minecraft Bedrock Protocol Library Written in C++
 # Donate
 - https://afdian.tv/a/GlacieTeam
 
-## Used Projects
+# Used Projects
 | Project          | License      | Link                                         |
 | ---------------- | ------------ | -------------------------------------------- |
 | BinaryStream     | MPL-2.0      | <https://github.com/GlacieTeam/BinaryStream> |
