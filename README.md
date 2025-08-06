@@ -8,7 +8,7 @@
 [![Downloads](https://img.shields.io/github/downloads/GlacieTeam/ProtocolLib/total?style=for-the-badge&color=%2300ff00)](https://github.com/GlacieTeam/ProtocolLib/releases)
 [![Issues](https://img.shields.io/github/issues/GlacieTeam/ProtocolLib.svg?style=for-the-badge)](https://github.com/GlacieTeam/ProtocolLib/issues)
 
-Bedrock Protocol Library for Glacie
+A Multi-version Minecraft Bedrock Protocol Library Written in C++
 
 # Install
 - Download the release and unzip the zip package, then put the **`ProtocolLib.dll`(Windows)** or **`ProtocolLib.so`(Linux)** into the install directory.
