@@ -1,7 +1,7 @@
 # ProtocolLib
 
 [![QQ](https://img.shields.io/badge/642538983-pink?style=for-the-badge&logo=qq)](https://qm.qq.com/q/1yn1ZHEoyY)
-[![Discord](https://img.shields.io/discord/1346034987136192523?style=for-the-badge&logo=discord)](https://discord.gg/7uJNS3tNa6)
+[![Discord](https://img.shields.io/discord/1346034987136192523?style=for-the-badge&logo=discord)](https://discord.gg/PJakaTYr85)
 
 [![Latest Tag](https://img.shields.io/github/v/tag/GlacieTeam/ProtocolLib?label=Latest%20Tag&style=for-the-badge)](https://github.com/GlacieTeam/ProtocolLib/releases)
 [![Stars](https://img.shields.io/github/stars/GlacieTeam/ProtocolLib.svg?style=for-the-badge)](https://github.com/GlacieTeam/ProtocolLib/stargazers)  
@@ -27,7 +27,7 @@ A Multi-version Minecraft Bedrock Protocol Library Written in C++
 
 
 # Communication & FAQ
-- Join our [Discord](https://discord.gg/7uJNS3tNa6) community: https://discord.gg/7uJNS3tNa6
+- Join our [Discord](https://discord.gg/PJakaTYr85) community: https://discord.gg/PJakaTYr85
 - Join our [QQ Group](https://qm.qq.com/q/1yn1ZHEoyY): 642538983
 
 # Feedback
