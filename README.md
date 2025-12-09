@@ -25,7 +25,8 @@ A Multi-version Minecraft Bedrock Protocol Library Written in C++
 | 1.21.10x          | 827              | :white_check_mark: | Already Supported  |
 | 1.21.11x          | 844              | :white_check_mark: | Already Supported  |
 | 1.21.12x          | 859, 860         | :white_check_mark: | Already Supported  |
-| 1.21.13x          | 897              | :x:                | Upcoming Support  |
+| 1.21.13x          | 897              | :white_check_mark: | Already Supported  |
+| 1.26.0            | unknown          | :x:                | Upcoming Support   |
 
 
 # Communication & FAQ
