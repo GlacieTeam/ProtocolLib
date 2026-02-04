@@ -46,8 +46,7 @@ A Multi-version Minecraft Bedrock Protocol Library Written in C++
 | NBT              | MPL-2.0      | <https://github.com/GlacieTeam/NBT>          |
 | zlib             | ZLIB         | <https://github.com/madler/zlib>             |
 | nlohmann json    | MIT          | <https://github.com/nlohmann/json>           |
-| snappy           | BSD 3-Clause | <https://github.com/google/snappy>           |
-| jwt-cpp          | MIT          | <https://github.com/Thalhammer/jwt-cpp>      |
+| zstd             | BSD 3-Clause | <https://github.com/facebook/zstd>           |
 
 # License
 - [GitHub Release](https://github.com/GlacieTeam/ProtocolLib/releases) is the sole and exclusive official source for downloading. Any other source of download is unauthorized and constitutes illegal reproduction. 
