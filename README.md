@@ -55,4 +55,4 @@ A Multi-version Minecraft Bedrock Protocol Library Written in C++
 
 ---
 
-## Copyright © 2025 GlacieTeam. All rights reserved.
+## Copyright © 2025 - 2026 GlacieTeam. All rights reserved.
