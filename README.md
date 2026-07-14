@@ -16,7 +16,9 @@ A Multi-version Minecraft Bedrock Protocol Library Written in C++
 # Supported Protocols
 | Minecraft Version | Protocol Version | Support Status     | Support Planned    |
 | ----------------- | ---------------- | ------------------ | ------------------ |
-| <= 1.21.4x        | <= 748           | :x:                | No Plan to Support |
+| <= 1.21.2x        | <= 712           | :x:                | No Plan to Support |
+| 1.21.3x           | 729              | :white_check_mark: | Already Supported  |
+| 1.21.4x           | 748              | :white_check_mark: | Already Supported  |
 | 1.21.5x           | 766              | :white_check_mark: | Already Supported  |
 | 1.21.6x           | 776              | :white_check_mark: | Already Supported  |
 | 1.21.7x           | 786              | :white_check_mark: | Already Supported  |
