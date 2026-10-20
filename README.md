@@ -12,11 +12,19 @@ A Multi-version Minecraft Bedrock Protocol Library Written in C++
 
 # Install
 - Download the release and unzip the zip package, then put the **`ProtocolLib.dll`(Windows)** or **`ProtocolLib.so`(Linux)** into the install directory.
+- [v1.10.1-rc.2](https://github.com/GlacieTeam/ProtocolLib/releases/tag/v1.10.1-rc.2) is a Windows x86_64 release candidate. Select this version explicitly; no Linux package is included, and the stable `latest` release is unchanged.
 
 # Supported Protocols
+The following table applies to v1.10.1-rc.2. Host integration is required for session-based compatibility features.
+
 | Minecraft Version | Protocol Version | Support Status     | Support Planned    |
 | ----------------- | ---------------- | ------------------ | ------------------ |
-| <= 1.21.2x        | <= 712           | :x:                | No Plan to Support |
+| <= 1.20.6x        | <= 649           | :x:                | Not Enabled        |
+| 1.20.7x           | 662              | :white_check_mark: | Already Supported  |
+| 1.20.8x           | 671              | :white_check_mark: | Already Supported  |
+| 1.21.0            | 685              | :white_check_mark: | Already Supported  |
+| 1.21.2            | 686              | :x:                | Not Enabled        |
+| 1.21.2x           | 712              | :white_check_mark: | Already Supported  |
 | 1.21.3x           | 729              | :white_check_mark: | Already Supported  |
 | 1.21.4x           | 748              | :white_check_mark: | Already Supported  |
 | 1.21.5x           | 766              | :white_check_mark: | Already Supported  |
@@ -32,7 +40,10 @@ A Multi-version Minecraft Bedrock Protocol Library Written in C++
 | 1.26.1x           | 944              | :white_check_mark: | Already Supported  |
 | 1.26.2x           | 975              | :white_check_mark: | Already Supported  |
 | 1.26.3x           | 1001             | :white_check_mark: | Already Supported  |
-| 1.26.4x           | ???              | :x:                | Upcoming Support   |
+| 1.26.40 - 1.26.44 | 2168             | :white_check_mark: | Already Supported  |
+| 1.26.45           | 2169             | :white_check_mark: | Already Supported  |
+| 1.26.50           | 2192             | :white_check_mark: | Already Supported  |
+| 1.26.51           | 2193             | :white_check_mark: | Already Supported  |
 
 
 # Communication & FAQ
